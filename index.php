@@ -2,6 +2,7 @@
 /*
 Plugin Name: txt edit
 Description: Create, edit and delete .txt files in the WordPress root (llms.txt, robots.txt, ads.txt, ...).
+Author: Kristoffer Klintberg
 Version: 1.0
 */
 
